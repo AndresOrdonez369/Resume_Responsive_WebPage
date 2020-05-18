@@ -1,1 +1,1 @@
-Resume - bootstrap - html - Javascript - CSS
+Use bootstrap - html - Javascript - CSS. Firebase as host.
